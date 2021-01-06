@@ -2,8 +2,8 @@
 
 > Kinetic CSS Loader on Vanilla JS
 
-### [Demo]()
-
+### [Demo](http://kinetic-loader-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://skr.sh/v5zqLaLptqI?a)
 ### Get started
 
 ```shell script
